@@ -4,7 +4,7 @@ const assignment = {};
 // ========================
 
 
-//  * Challenge - 1
+// Challenge - 1
  
 function sumOfNumbers(arrayOfNumbers) {
   let sum = 0;
@@ -15,7 +15,7 @@ function sumOfNumbers(arrayOfNumbers) {
 }
 console.log(sumOfNumbers([3,4,2,1]))
 
-//  * Challenge - 2
+// Challenge - 2
  
 function countEvenNumbers(arrayOfNumbers) {
    let count = 0;
@@ -28,7 +28,8 @@ function countEvenNumbers(arrayOfNumbers) {
     
 }
 console.log(countEvenNumbers([3,4,2,1]))
-// assignment.countEvenNumbers = countEvenNumbers;
+
+ // assignment.countEvenNumbers = countEvenNumbers;
 
 
  
